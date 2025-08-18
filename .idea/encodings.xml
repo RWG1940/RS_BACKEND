@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EFPS_core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EFPS_core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EFPS_exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EFPS_util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EFPS_web_management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EFPS_web_management/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RS_core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RS_exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RS_util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RS_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
